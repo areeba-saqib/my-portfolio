@@ -22,7 +22,7 @@ const Footer = () => {
                     </div>
 
                     <div className="text-center md:text-right">
-                        <p className="text-sm text-gray-500 mb-1">© 2026 Karachi, Pakistan</p>
+                        <p className="text-sm text-gray-500 mb-1">© 2026 sialkot, Pakistan</p>
                         <p className="text-xs text-gray-600 font-bold uppercase tracking-widest">Built with React & Framer Motion</p>
                     </div>
                 </div>
