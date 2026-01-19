@@ -25,7 +25,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center">
                     <div className="flex-shrink-0">
                         <h1 className="text-2xl font-black bg-gradient-to-r from-blue-400 to-emerald-400 bg-clip-text text-transparent">
-                            DevPortfolio
+                            Areeba Saqib
                         </h1>
                     </div>
 

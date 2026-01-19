@@ -54,7 +54,7 @@ const Projects = () => {
             title: 'Weather App',
             description: 'A real-time weather application providing accurate forecast data with a clean UI.',
             tech: ['React', 'API', 'Tailwind'],
-            link: 'https://areeba-saqib.github.io/weather-app/',
+            link: 'https://weather-livid-omega.vercel.app/',
             github: 'https://github.com/areeba-saqib/weather-app',
             icon: <Globe className="text-cyan-500" size={32} />
         }
